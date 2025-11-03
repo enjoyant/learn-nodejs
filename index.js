@@ -54,6 +54,6 @@ const server = http.createServer((req, res) => {
 });
 
 // 서버 실행
-server.listen(8080, () => {
+server.listen(8090, () => {
     console.log("Server Running!");
 });
